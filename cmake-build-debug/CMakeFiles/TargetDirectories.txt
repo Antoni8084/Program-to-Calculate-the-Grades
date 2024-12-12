@@ -1,0 +1,3 @@
+/home/priver/Studies/Calculate_Grades/cmake-build-debug/CMakeFiles/Calculate_Grades.dir
+/home/priver/Studies/Calculate_Grades/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/priver/Studies/Calculate_Grades/cmake-build-debug/CMakeFiles/rebuild_cache.dir

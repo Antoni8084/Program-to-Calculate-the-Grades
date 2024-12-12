@@ -1,0 +1,7 @@
+# ninja log v6
+2	286	1734033125174836499	CMakeFiles/Calculate_Grades.dir/main.cpp.o.ddi	58425475d5ed11bf
+286	294	1734033125466833927	CMakeFiles/Calculate_Grades.dir/CXX.dd	32be133021a4674c
+286	294	1734033125466833927	/home/priver/Studies/Calculate_Grades/cmake-build-debug/CMakeFiles/Calculate_Grades.dir/CXXModules.json	32be133021a4674c
+286	294	1734033125466833927	CMakeFiles/Calculate_Grades.dir/main.cpp.o.modmap	32be133021a4674c
+294	1214	1734033125466833927	CMakeFiles/Calculate_Grades.dir/main.cpp.o	945cd9d0c19e4209
+1215	1319	1734033126386825845	Calculate_Grades	6961642108894bbd
